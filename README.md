@@ -1,4 +1,5 @@
 # open_source_repo
+Welcome to my repository! This project focuses on solving complex optimization problems using quantum annealing provided by D-Wave's quantum computing platform. Our goal is to showcase practical implementations and use cases of D-Wave's capabilities to address real-world challenges in optimization.
 ## Installation
 ```
 pip install -r requirements.txt
