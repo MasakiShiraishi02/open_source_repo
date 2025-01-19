@@ -1,1 +1,5 @@
 dwave-ocean-sdk==8.1.0
+pyqubo==1.5.0
+numpy==1.25.2
+matplotlib== 3.8.4
+dash==2.18.2
